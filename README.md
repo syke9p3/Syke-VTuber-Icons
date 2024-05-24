@@ -4,7 +4,7 @@ VTuber logos by syke9p3 inspired from [Aikoyori](https://github.com/Aikoyori/Pro
 
 > [!IMPORTANT]
 >
-> **These are not official logos. Only kawaii-based**
+> **These are not official logos. Only kawaii-based** 🌟
 
 ## Linux Mint
 Linux Mint: https://linuxmint.com/
