@@ -1,4 +1,4 @@
-# Syke-VTuber-Icons
+# Syke VTuber Logos
 
 VTuber logos by syke9p3 inspired from [Aikoyori](https://github.com/Aikoyori/ProgrammingVTuberLogos/) and [SAWARATSUKI](https://github.com/SAWARATSUKI/KawaiiLogos) 
 
