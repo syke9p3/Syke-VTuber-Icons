@@ -19,6 +19,14 @@ This logo is based on the official logo of SpringBoot. The current version nickn
 
 <img width="400" src="SpringBoot/SpringBootShadowed.png">
 
+## PyTorch
+PyTorch: 
+
+This logo is based on **PyTorch library**. Some elements like the training loop code were inspired from https://www.learnpytorch.io/01_pytorch_workflow/
+ 
+
+<img width="400" src="Pytorch/Pytorch.png">
+
 # License
 This content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
