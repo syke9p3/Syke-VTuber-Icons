@@ -28,6 +28,15 @@ This logo is based on **PyTorch library**. Some elements like the training loop 
 
 <img width="400" src="Pytorch/Pytorch.png">
 
+
+## Keep Notes
+Keep Notes: 
+
+This logo is based on **Google Keep Notes** 
+ 
+
+<img width="400" src="Keep Notes/KeepNotes.png">
+
 # License
 This content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
