@@ -32,15 +32,13 @@ This logo is based on **PyTorch library**. Some elements like the training loop 
 ## Keep Notes
 Keep Notes: 
 
-This logo is based on **Google Keep Notes** 
+
  
 
 <img width="400" src="Keep Notes/KeepNotes.png">
 
 ## Obsidian
 Obsidian: 
-
-This logo is based on **Obsidian** 
  
 
 <img width="400" src="Obsidian/Obsidian.png">
