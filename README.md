@@ -43,6 +43,12 @@ Obsidian:
 
 <img width="400" src="Obsidian/Obsidian.png">
 
+## Google Chrome
+Google Chrome: 
+ 
+
+<img width="400" src="Google Chrome/Google Chrome.png">
+
 # License
 This content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
